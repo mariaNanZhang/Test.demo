@@ -1,0 +1,51 @@
+﻿The structure should be decided with your supervisor but typically will be something like: – Abstract (summary of report). 
+– Introduction (outlines scope of investigation). 
+– Background (survey of relevant literature, related approaches, sets wider context). 
+– Research methods (what the project involves, project plan, and evaluation plan). 
+– Progress – in whatever form is appropriate. 
+– List of references (using accepted format).
+Your Progress report should: 
+– Contain an objective relating to evaluation that makes explicit the purpose of the evaluation. 
+– Make a concrete proposal as to how your proposal will be evaluated. 
+– Include time in the project plan for evaluation tasks. 
+•Abstract 
+• Contents
+ • Numbered Sections 
+– 1. Introduction
+ – 2. Background & theory (if appropriate)
+ – 3. Research (or experimental) methods 
+– 4. Results and discussion 
+– 5. Conclusion & future work 
+• List of References 
+•Abstract  
+Should summarise the report – it is not an introduction.
+ • Should summarise the results and conclusions of the report.
+ • Should be informative (contain results) not just descriptive (say what the report is about). Method Worth 10% of the marks for your Progress Report 
+• Introduction 
+Section 1: Introduction and overview of the whole report or dissertation.
+ • Section introductions: if a section has sub‐ sections then the text before 1st sub‐section should be an introduction of that section. 
+• Same for sub‐sections with sub‐sub‐sections. Background & Theory 
+• Section 2: Background and theory should provide the reader with sufficient knowledge to understand the results and discussion
+ • If theory is important to the work, then appropriate equations and explanation should be given 
+• Complete derivations are not needed 
+Research (or experimental) methods
+ • Section 3: Research methods this section should be used to describe the tools and techniques used 
+• In hardware projects this would include instrumentation and experimental methods 
+• In software projects it could include choice of programming language and software package and methods adopted 
+Results and discussion 
+• Section 4: What was actually done! – What advances have been made?
+ – Discussion of data e.g. test results
+ – What information can be deduced from the data
+ – Detailed discussion of validity of conclusions 
+Conclusions 
+• More important than you think. 
+• Use it to… 
+– Give your overall conclusions 
+– Reflect on your progress on each objective 
+– Demonstrate what you learned 
+– Discuss future avenues for investigation 
+References 
+• Two main styles: 
+– Listed numerically in the order of appearance in the manuscript. Cited either like this [1] or like this1. E.g “Hartley showed that…[1]” or “Hartley1 showed that…” 
+– Listed alphabetically and cited by (name, date) or name (date). E.g. “Hartley (1957) showed that…” or “It was shown that...(Hartley, 1957)”. • Word and latex will automatically create reference lists in either order
+ – for latex use bibtex and use natbib for (name, date) style March 2016 COMP 60990 Scientific Method Slide 22/29 5) Formatting issues • Section numbers • Figures and Tables • Maths • Reference
